@@ -1,12 +1,4 @@
-### Hi there 👋
-
-<!--
-**LicioLima/LicioLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🌱 I’m currently learning MySQL, SQL Serve, Java and Python
-- 📫 How to reach me: liciomlima@gmail.com
--->
-
-## Olá! Me chamo Lício Lima
+## Olá! Me chamo Licio Lima
 
 <div>
   <a href="https://github.com/licioLima">
