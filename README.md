@@ -1,5 +1,11 @@
 ## Olá! Me chamo Lício Lima
 
+- Estudante de Análise e Desenvolvimento de Sistemas
+- Um enorme apreço pelas linguagens Python 🐍 e R 📊
+- Sou um cientista Político recém formado 👨🏻‍🎓
+- Atualmente estudando SQL 🏦 🎲
+- Amando o SGBD MySQL 🐬
+
 <div>
   <a href="https://github.com/LicioLima">
   <img height="168em" src="https://github-readme-stats.vercel.app/api?username=LicioLima&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
