@@ -1,7 +1,8 @@
 ## Olá! Me chamo Lício Lima
 
+- Estudante de Análise e Desenvolvimento de Sistemas 💻📱
 - Um enorme apreço pelas linguagens Python 🐍 e R 📊
-- Estudante de Análise e Desenvolvimento de Sistemas
+- Iniciando os estudos nesse semestre em Java ☕
 - Sou Cientista Político recém formado 👨🏻‍🎓
 - Atualmente estudando SQL 🏦 🎲
 - Amando o SGBD MySQL 🐬
