@@ -3,14 +3,13 @@
 - Estudante de Análise e Desenvolvimento de Sistemas 💻📱
 - Um enorme apreço pelas linguagens Python 🐍 e R 📊
 - Iniciando os estudos nesse semestre em Java ☕
-- Sou Cientista Político recém formado 👨🏻‍🎓
-- Atualmente estudando SQL 🏦 🎲
-- Amando o SGBD MySQL 🐬
+- Cientista Político 👨🏻‍🎓
+- DBA Jr.
 
 <div>
   <a href="https://github.com/LicioLima">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LicioLima&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LicioLima&layout=compact&langs_count=8&theme=merko"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LicioLima&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LicioLima&layout=compact&langs_count=8&theme=merko"/>
 </div>
  
 <div style="display: inline_block"><br>
