@@ -1,7 +1,7 @@
 ## Hi There 👋🏻, My Name is Lício Lima!
 
+- Studying a lot databases management systems (SQL-Server and MySQL) 🏦🎲
 - A huge appreciation for languages such as Python 🐍 and R 📊
-- A certain domain and appreciation for database 🏦🎲
 - Systems Analysis and Development Student 💻📱
 - Documentation and Requirements Analyst🖥📜
 - Political Scientist 👨🏻‍🎓
