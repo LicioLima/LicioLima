@@ -1,4 +1,4 @@
-## Hi There, My Name is Lício Lima!
+## Hi There 👋🏻, My Name is Lício Lima!
 
 - A huge appreciation for languages such as Python 🐍 and R 📊
 - A certain domain and appreciation for database 🏦🎲
