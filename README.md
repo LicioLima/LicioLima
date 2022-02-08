@@ -3,7 +3,7 @@
 - Studying a lot databases management systems (SQL-Server and MySQL) 🏦🎲
 - A huge appreciation for languages such as Python 🐍 and R 📊
 - Systems Analysis and Development Student 💻📱
-- Documentation and Requirements Analyst🖥📜
+- Documentation and Requirements Analyst 🖥📜
 - Political Scientist 👨🏻‍🎓
 
 <div>
