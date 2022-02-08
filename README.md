@@ -1,10 +1,10 @@
-## Olá! Me chamo Lício Lima
+## Hi There, My Name is Lício Lima!
 
-- Estudante de Análise e Desenvolvimento de Sistemas 💻📱
-- Um enorme apreço pelas linguagens Python 🐍 e R 📊
-- Iniciando os estudos nesse semestre em Java ☕
-- Cientista Político 👨🏻‍🎓
-- DBA Jr.
+- A huge appreciation for languages such as Python 🐍 and R 📊
+- A certain domain and appreciation for database 🏦🎲
+- Systems Analysis and Development Student 💻📱
+- Documentation and Requirements Analyst🖥📜
+- Political Scientist 👨🏻‍🎓
 
 <div>
   <a href="https://github.com/LicioLima">
