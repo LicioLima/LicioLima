@@ -22,6 +22,7 @@
   <img align="center" alt="LicioLima-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="LicioLima-SPSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spss/spss-original.svg">
   <img align="center" alt="LicioLima-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="LicioLima-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
 </div>
 
  ##
