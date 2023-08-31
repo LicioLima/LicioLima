@@ -1,4 +1,4 @@
-## Olá convidados(as) ✌ Me chamo Lício Martins e sejam bem vindos ao lugar onde a mágica acontece!
+## Olá me chamo Lício Martins e sejam todos(as) bem vindos(as) ao meu perfil. ✌️
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LicioLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LicioLima&layout=compact&langs_count=16&theme=dracula"/>
