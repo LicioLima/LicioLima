@@ -24,4 +24,4 @@
 
   </div>
   
-![Snake Game](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Snake Game](https://github.com/LicioLima/snk/raw/output/github-contribution-grid-snake.svg)
