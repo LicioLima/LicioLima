@@ -22,6 +22,4 @@
   <a href = "mailto: liciomlima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/liciolima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-  </div>
-  
-![Snake Game](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Snake Game](https://github.com/LicioLima/snk/raw/output/github-contribution-grid-snake.svg)
