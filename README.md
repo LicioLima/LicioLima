@@ -76,9 +76,10 @@
 </div>
 
 ---
-## 🐍 Snake eating my contributions
+
 
 ![Snake animation](https://github.com/LicioLima/LicioLima/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
