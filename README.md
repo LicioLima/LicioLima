@@ -77,13 +77,6 @@
 
 ---
 
-
-![Snake animation](https://github.com/LicioLima/LicioLima/blob/output/github-contribution-grid-snake.svg)
-
-
----
-
-
 ## Foco atual
 
 ```text
@@ -91,3 +84,13 @@ Data Analysis      | BI | Power BI | Indicadores | KPIs
 Data Engineering   | ETL/ELT | Pipelines | APIs | Airflow
 Data Architecture  | Modelagem | Data Warehouse | Data Lake | Governança
 Cloud              | Azure | AWS | GCP
+
+```
+
+---
+
+## Atividade de Contribuições
+
+[![Snake animation](https://github.com/LicioLima/LicioLima/blob/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/LicioLima/LicioLima/output/github-contribution-grid-snake-dark.svg)
+
+---
