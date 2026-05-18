@@ -89,7 +89,7 @@ Cloud              | Azure | AWS | GCP
 
 ---
 
-## Atividade de Contribuições
+## Acompanhamento de Commits - Snake 🐍
 
 [![Snake animation](https://github.com/LicioLima/LicioLima/blob/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/LicioLima/LicioLima/output/github-contribution-grid-snake-dark.svg)
 
